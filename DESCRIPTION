@@ -1,10 +1,12 @@
 Package: workshop0620
-Title: What the Package Does (One Line, Title Case)
+Title: GitHub Workshop Demo Pkg
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Fang", "Lin", , "chiehfang.lin@gmail.com", role = c("aut", "cre"))
+Description: goddamn package my first trying.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+URL: https://fangfangtw128.github.io/workshop0620
+BugReports: https://github.com/fangfangtw128/workshop0620/issues
